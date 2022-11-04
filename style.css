@@ -1,9 +1,11 @@
 h1{
     text-align: center;
-    background-color: #cccccc;
 }
 
 p{
     text-align: center;
-    background-color: #cccccc
-    }
+}
+
+body {
+    background-color: #cccccc;
+}
